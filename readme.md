@@ -2,8 +2,8 @@ Debugging command-line interface for the built-in Go library parser.
 
 Documentation
 -------------
- - [GoDoc Documentation](https://godoc.org/github.com/crunchyroll/goparse)
+ - [GoDoc Documentation](https://godoc.org/chrispennello.com/go/goparse)
 
 Installation
 ------------
-    go get github.com/crunchyroll/goparse
+    go get chrispennello.com/go/goparse
